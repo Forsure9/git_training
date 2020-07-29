@@ -1,1 +1,3 @@
 Hi! I'm BOB . I'm a file that changed from the Alicia file to test/t
+Add another line to Bob.txt file
+Try to go thru the same step of checking in the new file... July 1 at 9:31 local time
